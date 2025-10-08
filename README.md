@@ -1,4 +1,8 @@
 # Nutsa's-Portfolio
+
+This portfolio showcases examples from real projects I’ve been directly involved in.
+Each example reflects my hands-on experience in software testing.
+
 # Nutsa Gobegishvili - **QA Tester**
 
  Hi, I’m Nutsa a **motivated, detail-oriented, and result-driven QA Tester**.  
