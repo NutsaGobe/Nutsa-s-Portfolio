@@ -1,34 +1,46 @@
 # Nutsa's-Portfolio
 This portfolio includes testing work completed on real projects -test cases, bug reports, and QA documentation that reflect my practical experience in manual QA testing.
-# ნუცა გობეჯიშვილი - **QA ტესტერი**
 
-მე ვარ ნუცა - **QA ტესტერი**, რომელსაც უყვარს დეტალებზე დაკვირვება და შედეგზე ორიენტირებული მუშაობა.  
-QA-ის **თეორიული და პრაქტიკული კურსის** გავლის შემდეგ უკვე ვმუშაობ **რეალურ პროექტებზე** და ვეხმარები სტარტაპებს მათი პროდუქტის ხარისხის გაუმჯობესებაში.
+# Nutsa Gobegishvili - **QA Tester**
 
-ამ პორტფოლიოში ნახავთ ნამუშევრებს **რეალური პროექტებიდან**, რომლებშიც უშუალოდ ვმონაწილეობდი.  
-ეს მაგალითები ნათლად ასახავს ჩემს **პრაქტიკულ გამოცდილებას** როგორც QA ტესტერის.
+ Hi, I’m Nutsa a **motivated, detail-oriented, and result-driven QA Tester**.  
+After completing **theoretical and practical QA training**, I started working on **real-world projects**, helping startups improve the **quality and reliability of their products**.
 
-## მოკლე რეზიუმე
-- **პოზიცია:** QA ტესტერი (Junior)  
-- **გამოცდილება:** თეორიული + პრაქტიკული კურსი; რეალური პროექტები  
-- **ფოკუსი:** მანუალური, Exploratory და Regression ტესტირება
+This portfolio showcases examples from **real projects** I’ve been directly involved in.  
+Each example reflects my **hands-on experience** in software testing.
 
-## გამოცდილება
-- **ტესტ ქეისების შექმნა და მართვა** (Test cases)  
-- **დეტალური ბაგ-რეპორტების მომზადება** (steps-to-reproduce, severity, priority)  
-- **QA დოკუმენტაციის დაწერა** (ტესტ სტრატეგია, ტესტ სპრინტების ჩეკლისტი)  
-- სხვადასხვა ტესტირების ტექნიკების გამოყენება (Functional, Regression, Exploratory და სხვ.)
+---
 
-## ინსტრუმენტები
+## Quick Summary
+- **Position:** QA Tester (Junior)  
+- **Experience:** Theoretical + practical training; hands-on work on real projects  
+- **Focus:** Manual, Exploratory, and Regression testing
+
+---
+
+## Experience
+- **Creating and managing test cases**  
+- **Preparing detailed bug reports** (steps-to-reproduce, severity, priority)  
+- **Writing QA documentation** (test strategy, test cycle checklists)  
+- Applying various testing techniques (Functional, Regression, Exploratory, etc.)
+
+---
+
+## Tools
 - **Trello**  
 - **QASE.io**  
 - **Jira**
 
-## პორტფოლიო მოიცავს
-- **ტესტ ქეისები**  
-- **ბაგ-რეპორტები**  
-- **QA დოკუმენტაცია**
+---
 
-**LinkedIn (https://www.linkedin.com/feed/):**   
-**საკონტაქტო:** 593201891
-**ელ.ფოსტა:** cucagobejishvili@gmail.com
+## Portfolio Includes
+- **Test cases**  
+- **Bug reports**  
+- **QA documentation**
+
+---
+
+## Contact
+🔗 **LinkedIn:** www.linkedin.com/in/nutsa-gobejishvili-1b5779333
+✉️ **Email:**cucagobejishvili@gmail.com
+
