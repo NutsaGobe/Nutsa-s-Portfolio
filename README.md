@@ -29,6 +29,7 @@ This portfolio includes **test cases, bug reports, and QA documentation** demons
 - **Test cases**  
 - **Bug reports**  
 - **QA documentation**
+- **Automation Scripts (VS Code)** 
 
 ---
 ## Contact
