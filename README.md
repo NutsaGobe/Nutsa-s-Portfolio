@@ -14,7 +14,8 @@ This portfolio includes **test cases, bug reports, and QA documentation** demons
   ## Tools
 - Trello  
 - QASE.io  
-- Jira  
+- Jira
+- visual studio code
 
 ---
 ## Experience
