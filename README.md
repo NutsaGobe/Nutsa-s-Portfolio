@@ -7,7 +7,7 @@
 *Passionate about quality, detail-oriented, and committed to delivering bug-free user experiences*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nutsa-gobejishvili-1b5779333)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:cucagobejishvili@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/)
 
 </div>
 
@@ -164,7 +164,7 @@ I'm actively looking for **Junior QA Tester** opportunities where I can contribu
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nutsa-gobejishvili-1b5779333)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:cucagobejishvili@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/)
 
 ---
 
