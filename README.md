@@ -135,11 +135,17 @@ including frontend, backend, and UI/UX validations.
 
 > *Technical competency demonstrations*
 
-#### 🔌 [API_Testing](./API_Testing)
-- Postman collections
-- API test scenarios
-- Request/Response examples
-- Screenshots of test results
+## 🌐 API Testing
+
+Comprehensive API testing collection created and executed in Postman.
+
+<details>
+  <summary>📂 Click to expand Postman resources</summary>
+
+  - 🧰 [Postman Collection (JSON)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Nutsa_Postman_Collection.json)
+  - 📜 Includes test scenarios, environment setup, and API validation examples
+
+</details>
 
 #### 💾 [SQL_Queries](./SQL_Queries)
 - Database testing queries
