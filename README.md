@@ -66,9 +66,11 @@ Detailed manual test cases covering UI/UX flows and functional scenarios. Includ
 
 </details>
 
- Automation_Tests
-  <summary>📂 Click to expand test case files</summary>
-- [✅https://github.com/NutsaGobe/Nutsa-s-Portfolio/tree/main/Automation_Tests)
+
+<details>
+  <summary>📂 - [✅https://github.com/NutsaGobe/Nutsa-s-Portfolio/tree/main/Automation_Tests)
+
+  <details>
 
 
 
