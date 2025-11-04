@@ -66,17 +66,6 @@ Detailed manual test cases covering UI/UX flows and functional scenarios. Includ
   - 📄 [UI/UX Test Assignment (Markdown)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/ui_ux_test_assignment.md)
   - 📘 [Full Test Cases (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/d199612f6c2f1afcdb81210042d2acc3d8c62421/cases.pdf)
 
-</details>
-
-#### [Test_Scenarios](./Test_Scenarios)
-- High-level test scenarios
-- User flow testing documentation
-
-####  [Checklists](./Checklists)
-- 🔥 Smoke Testing Checklists
-- 🔄 Regression Testing Checklists
-- ✔️ Sanity Testing Checklists
-- 🎨 Usability Testing Checklists
 
 ---
 
