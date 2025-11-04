@@ -31,7 +31,7 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - 📋 **Trello** - Task and project management
 - 🧪 **QASE.io** - Test case management
@@ -57,16 +57,16 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 > *Comprehensive testing materials organized for easy navigation*
 
-#### 🗂️ [Test_Cases](./Test_Cases)
+####  [Test_Cases](./Test_Cases)
 - ✅ Excel format test cases
 - ✅ Qase.io exports
 - ✅ Markdown documentation
 
-#### 🗂️ [Test_Scenarios](./Test_Scenarios)
+#### [Test_Scenarios](./Test_Scenarios)
 - High-level test scenarios
 - User flow testing documentation
 
-#### 🗂️ [Checklists](./Checklists)
+####  [Checklists](./Checklists)
 - 🔥 Smoke Testing Checklists
 - 🔄 Regression Testing Checklists
 - ✔️ Sanity Testing Checklists
