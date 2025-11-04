@@ -33,26 +33,10 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 ## 🛠️ Tools & Technologies
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
-<br><b>Trello</b>
-</td>
-<td align="center" width="150">
-<img src="https://asset.brandfetch.io/idLRjCq4P0/idK9h4tPeH.png" width="48" height="48" alt="Qase" />
-<br><b>QASE.IO</b>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-<br><b>Jira</b>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-<br><b>VS Code</b>
-</td>
-</tr>
-</table>
+- 📋 **Trello** - Task and project management
+- 🧪 **QASE.io** - Test case management
+- 📊 **Jira** - Bug tracking and project management  
+- 💻 **Visual Studio Code** - Development and scripting
 
 ---
 
