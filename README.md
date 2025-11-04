@@ -58,7 +58,7 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 ---
 
-## 🧾 Test Cases
+##  Test Cases
 
 Detailed manual test cases covering UI/UX flows and functional scenarios.  
 Includes structured test documentation in both PDF and Markdown formats.
@@ -73,14 +73,14 @@ Includes structured test documentation in both PDF and Markdown formats.
 
 ---
 
-## 🤖 Automation Tests
+## Automation Tests
 
 Automated Selenium tests verifying login functionality (valid & invalid credentials).
 
 <details>
   <summary>📂 Click to expand automation test files</summary>
 
-  - 🧩 [Combined Login Tests (Valid + Invalid)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Automation_Tests/login_tests_combined.py)
+  -  [Combined Login Tests (Valid + Invalid)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Automation_Tests/login_tests_combined.py)
 
 </details>
 
@@ -94,7 +94,7 @@ including frontend, backend, and UI/UX validations.
 <details>
   <summary>📂 Click to expand bug report files</summary>
 
-  - 🪲 [General Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/bug.pdf)  
+  -  [General Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/bug.pdf)  
   - 💻 [Frontend Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/frontend%20bug%20report%20(1).pdf)  
   - 🎨 [UI/UX Bug Reports (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/ui.ux%20bug%20reports%20(1).pdf)
 
