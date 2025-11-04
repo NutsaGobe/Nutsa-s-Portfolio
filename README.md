@@ -1,4 +1,4 @@
-# 🎯 Nutsa Gobegishvili | QA Portfolio
+#  Nutsa Gobegishvili | QA Portfolio
 
 <div align="center">
 
