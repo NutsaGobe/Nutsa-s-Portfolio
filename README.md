@@ -57,7 +57,7 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 > *Comprehensive testing materials organized for easy navigation*
 
-#### 🗂️ [Test_Cases](./Test_Cases)
+#### 🗂️ [Test_Cases](./Test_Cases) cases.pdf
 - ✅ Excel format test cases
 - ✅ Qase.io exports
 - ✅ Markdown documentation
