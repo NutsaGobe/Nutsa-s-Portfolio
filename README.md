@@ -163,9 +163,8 @@ I'm actively looking for **Junior QA Tester** opportunities where I can contribu
 ### 🔗 Find Me Online
 
 
-[![LinkedIn] https://www.linkedin.com/in/nutsa-gobejishvili-1b5779333/
-[![Email](https://img.shields.io/badge/Email-cucagobejishvili@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cucagobejishvili@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nutsa-gobejishvili-1b5779333)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:cucagobejishvili@gmail.com)
 
 ---
 
