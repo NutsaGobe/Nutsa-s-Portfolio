@@ -41,7 +41,7 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 </td>
 <td align="center" width="150">
 <img src="https://avatars.githubusercontent.com/u/13406071?s=200&v=4" width="48" height="48" alt="Qase" />
-<br><b>QASE.io</b>
+<br><b>QASE.IO</b>
 </td>
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
