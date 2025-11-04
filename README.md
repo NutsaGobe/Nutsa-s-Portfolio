@@ -57,7 +57,8 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 > *Comprehensive testing materials organized for easy navigation*
 
-#### 🗂️ [Test_Cases](./Test_Cases) https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/d199612f6c2f1afcdb81210042d2acc3d8c62421/cases.pdf
+### 📄 [View Test Cases →](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/d199612f6c2f1afcdb81210042d2acc3d8c62421/cases.pdf)
+
 - ✅ Excel format test cases
 - ✅ Qase.io exports
 - ✅ Markdown documentation
