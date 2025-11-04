@@ -52,12 +52,11 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 ---
 
 ## 📁 Portfolio Structure
-
 ### 📂 Test Documentation
 
-> *Comprehensive testing materials organized for easy navigation*
 
-## 🧾 Test Cases
+
+##  📂 Test Cases
 
 Detailed manual test cases covering UI/UX flows and functional scenarios. Includes structured test documentation in both PDF and Markdown formats.
 
