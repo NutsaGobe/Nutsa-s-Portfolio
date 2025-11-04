@@ -142,7 +142,7 @@ Comprehensive API testing collection created and executed in Postman.
 <details>
   <summary>📂 Click to expand Postman resources</summary>
 
-  - 🧰 [Postman Collection (JSON)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Nutsa_Postman_Collection.json)
+  - 🧰 [Postman Collection (JSON)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/postman)
   - 📜 Includes test scenarios, environment setup, and API validation examples
 
 </details>
