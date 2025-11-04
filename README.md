@@ -40,7 +40,7 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 <br><b>Trello</b>
 </td>
 <td align="center" width="150">
-<img src="https://avatars.githubusercontent.com/u/13406071?s=200&v=4" width="48" height="48" alt="Qase" />
+<img src="https://asset.brandfetch.io/idLRjCq4P0/idK9h4tPeH.png" width="48" height="48" alt="Qase" />
 <br><b>QASE.IO</b>
 </td>
 <td align="center" width="150">
