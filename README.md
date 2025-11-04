@@ -66,6 +66,11 @@ Detailed manual test cases covering UI/UX flows and functional scenarios. Includ
 
 </details>
 
+🧠 Automation_Tests
+
+- [✅ Valid Login Test (Python + Selenium)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/VALID_TEST.PY)
+- [❌ Invalid Login Test (Python + Selenium)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/IVALID_TETS.PY)
+
 
 ## 🐞 Bug Reports
 
