@@ -54,8 +54,6 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 ## 📁 Portfolio Structure
 ### 📂 Test Documentation
 
-
-
 ##  📂 Test Cases
 
 Detailed manual test cases covering UI/UX flows and functional scenarios. Includes structured test documentation in both PDF and Markdown formats.
@@ -65,7 +63,6 @@ Detailed manual test cases covering UI/UX flows and functional scenarios. Includ
 
   - 📄 [UI/UX Test Assignment (Markdown)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/ui_ux_test_assignment.md)
   - 📘 [Full Test Cases (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/d199612f6c2f1afcdb81210042d2acc3d8c62421/cases.pdf)
-
 
 ---
 
