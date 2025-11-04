@@ -57,12 +57,17 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 > *Comprehensive testing materials organized for easy navigation*
 
-### 📄 [View Test Cases →](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/d199612f6c2f1afcdb81210042d2acc3d8c62421/cases.pdf)
-    📄 (https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/ui_ux_test_assignment.md)
+## 🧾 Test Cases
 
-- ✅ Excel format test cases
-- ✅ Qase.io exports
-- ✅ Markdown documentation
+Detailed manual test cases covering UI/UX flows and functional scenarios. Includes structured test documentation in both PDF and Markdown formats.
+
+<details>
+  <summary>📂 Click to expand test case files</summary>
+
+  - 📄 [UI/UX Test Assignment (Markdown)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/ui_ux_test_assignment.md)
+  - 📘 [Full Test Cases (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/d199612f6c2f1afcdb81210042d2acc3d8c62421/cases.pdf)
+
+</details>
 
 #### [Test_Scenarios](./Test_Scenarios)
 - High-level test scenarios
