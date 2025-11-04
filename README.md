@@ -75,9 +75,18 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 ---
 
-### 📂 Bug Reports
+## 🐞 Bug Reports
 
-> *Detailed bug documentation with reproducible steps*
+Comprehensive reports detailing issues identified during manual testing, including frontend, backend, and UI/UX validations.
+
+<details>
+  <summary>📂 Click to expand bug report files</summary>
+
+  - 🪲 [General Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/bug.pdf)
+  - 💻 [Frontend Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/frontend%20bug%20report%20(1).pdf)
+  - 🎨 [UI/UX Bug Reports (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/ui.ux%20bug%20reports%20(1).pdf)
+
+</details>
 
 #### 🐛 [Bug_Reports](./Bug_Reports)
 - Severity and priority classifications
