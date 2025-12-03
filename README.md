@@ -37,6 +37,7 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 - 🧪 **QASE.io** - Test case management
 - 📊 **Jira** - Bug tracking and project management  
 - 💻 **Visual Studio Code** - Development and scripting
+- 📝 **Notion** - Documentation and knowledge management
 
 ---
 
