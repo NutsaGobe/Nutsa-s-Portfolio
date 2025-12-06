@@ -1,1 +1,111 @@
 
+## BUG-UI-001
+**Bug Name:** Button Alignment Issue  
+**Severity:** Low  
+**Priority:** Medium  
+**Frequency:** 100%
+
+**Description:**  
+The "Submit" button on the contact form is not properly aligned with other form elements on mobile devices.
+
+**Steps to Reproduce:**
+1. Open the contact page on a mobile device
+2. Observe the "Submit" button position
+
+**Expected Result:** Button should be centered and aligned with form fields
+
+**Actual Result:** Button appears offset to the right
+
+**Environment:** iOS Safari, Chrome Mobile  
+**Screenshot:** [Attached]
+
+---
+
+## BUG-UI-002
+**Bug Name:** Inconsistent Font Sizes  
+**Severity:** Low  
+**Priority:** Low  
+**Frequency:** 100%
+
+**Description:**  
+Header fonts have inconsistent sizes across different pages.
+
+**Steps to Reproduce:**
+1. Navigate to the Home page and note the header size
+2. Navigate to the About page
+3. Compare header sizes
+
+**Expected Result:** All page headers should have consistent font sizes
+
+**Actual Result:** Header sizes vary between 24px and 28px
+
+**Environment:** All browsers  
+**Screenshot:** [Attached]
+
+---
+
+## BUG-UI-003
+**Bug Name:** Loading Spinner Not Centered  
+**Severity:** Low  
+**Priority:** Low  
+**Frequency:** 100%
+
+**Description:**  
+Loading spinner animation is not centered on the page during data fetch operations.
+
+**Steps to Reproduce:**
+1. Navigate to the products page
+2. Observe loading spinner during initial load
+
+**Expected Result:** Spinner should be centered both vertically and horizontally
+
+**Actual Result:** Spinner appears in the upper-left quadrant
+
+**Environment:** Chrome, Firefox  
+**Screenshot:** [Attached]
+
+---
+
+## BUG-UI-004
+**Bug Name:** Navigation Menu Overlaps Content  
+**Severity:** Medium  
+**Priority:** High  
+**Frequency:** 100%
+
+**Description:**  
+On tablet devices in landscape mode, the navigation menu overlaps the main content area.
+
+**Steps to Reproduce:**
+1. Open the site on a tablet in landscape orientation
+2. Open the navigation menu
+3. Observe overlap with content
+
+**Expected Result:** Menu should push content or appear as an overlay without obscuring important elements
+
+**Actual Result:** Menu covers approximately 40% of the content area
+
+**Environment:** iPad Safari, Android Chrome  
+**Screenshot:** [Attached]
+
+---
+
+## BUG-UI-005
+**Bug Name:** Color Contrast Issues  
+**Severity:** Medium  
+**Priority:** Medium  
+**Frequency:** 100%
+
+**Description:**  
+Text on several buttons has insufficient color contrast, failing WCAG AA accessibility standards.
+
+**Steps to Reproduce:**
+1. Navigate to the checkout page
+2. Observe "Proceed to Payment" button
+3. Run accessibility audit
+
+**Expected Result:** Text contrast ratio should be at least 4.5:1
+
+**Actual Result:** Contrast ratio is 3.2:1
+
+**Environment:** All browsers  
+**Accessibility Impact:** Affects users with visual impairmentsClaude is AI and can make mistakes. Please double-check responses. Sonnet 4.5
