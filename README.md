@@ -52,6 +52,8 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 | 📋 **Test Documentation** | Test plans, test cases, checklists, reports |
 
 ---
+---
+
 ## 📁 Portfolio Structure
 
 ---
@@ -62,37 +64,62 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 
 ## Test Cases
 
+Detailed manual test cases covering UI/UX flows and functional scenarios.
+
 📂 Click to expand test case files
 
 * 📄 [Test Cases - Categories Search Functionality](Test-Cases-Categories-Search.md)
 * 📄 [Test Cases - Brand Filter Functionality](Test-Cases-Brand-Filter.md)
-* 📄 [Happy Path Test Cases (PDF)](HAPPY_PATH_TEST_CASES.pdf)
-</details>
+* 📘 [Test Cases (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Test-Cases.pdf)
+* 📘 [Happy Path Test Cases (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/HAPPY_PATH_TEST_CASES.pdf)
 
 ---
 
-## Automation Tests
+## 📋 Test Scenarios
 
-Automated Selenium tests verifying login functionality (valid & invalid credentials).
+Comprehensive test scenarios covering brand filter and search functionality.
 
-<details>
-  <summary>📂 Click to expand automation test files</summary>
+📂 Click to expand test scenarios
 
-  -  [Combined Login Tests (Valid + Invalid)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Automation_Tests/login_tests_combined.py)
+* 📊 [Test Scenarios - Brand Filter](Test-Scenarios-Brand-Filter.md)
+* 📊 [Test Scenarios (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Test-Scenarios.pdf)
 
-</details>
+---
+
+## ✅ Test Checklists
+
+Detailed checklists for systematic testing verification.
+
+📂 Click to expand checklists
+
+* ✓ [Checklist - Brand Filter Functionality](Brand-Filter-Checklist.md)
+* ✓ [Checklist (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/checklist.pdf)
 
 ---
 
 ## 🐞 Bug Reports
 
+Comprehensive reports detailing issues identified during manual testing.
+
 📂 Click to expand bug report files
 
-* [General Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/bug.pdf)
-* 💻 [Frontend Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/frontend%20bug%20report%20(1).pdf)
-* 🎨 [UI/UX Bug Reports (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/ui.ux%20bug%20reports%20(1).pdf)
+* 🎨 [UI/UX Bug Reports - Login Issues](UI-UX-Bug-Reports.md)
+* 💻 [Frontend Bug Report - Product Filter](Frontend-Bug-Report.md)
+* 📕 [Frontend Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Frontend-Bug-Report.pdf)
+* 📕 [UI/UX Bug Reports (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/UI-UX-Bug-Reports.pdf)
 
-</details>
+---
+
+## 🌐 API Testing
+
+Comprehensive API testing collection created and executed in Postman.
+
+📂 Click to expand Postman resources
+
+* 🧰 [Postman Collection (JSON)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/postman)
+* 📜 Includes test scenarios, environment setup, and API validation examples
+
+---
 
 #### 🐛 [Bug_Reports](./Bug_Reports)
 - Severity and priority classifications
