@@ -54,6 +54,8 @@ This portfolio showcases my testing work, including **test cases**, **bug report
 ---
 ---
 
+---
+
 ## 📁 Portfolio Structure
 
 ---
@@ -68,8 +70,6 @@ Detailed manual test cases covering UI/UX flows and functional scenarios.
 
 📂 Click to expand test case files
 
-* 📄 [Test Cases - Categories Search Functionality](Test-Cases-Categories-Search.md)
-* 📄 [Test Cases - Brand Filter Functionality](Test-Cases-Brand-Filter.md)
 * 📘 [Test Cases (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Test-Cases.pdf)
 * 📘 [Happy Path Test Cases (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/HAPPY_PATH_TEST_CASES.pdf)
 
@@ -81,7 +81,6 @@ Comprehensive test scenarios covering brand filter and search functionality.
 
 📂 Click to expand test scenarios
 
-* 📊 [Test Scenarios - Brand Filter](Test-Scenarios-Brand-Filter.md)
 * 📊 [Test Scenarios (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Test-Scenarios.pdf)
 
 ---
@@ -92,7 +91,6 @@ Detailed checklists for systematic testing verification.
 
 📂 Click to expand checklists
 
-* ✓ [Checklist - Brand Filter Functionality](Brand-Filter-Checklist.md)
 * ✓ [Checklist (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/checklist.pdf)
 
 ---
@@ -103,8 +101,6 @@ Comprehensive reports detailing issues identified during manual testing.
 
 📂 Click to expand bug report files
 
-* 🎨 [UI/UX Bug Reports - Login Issues](UI-UX-Bug-Reports.md)
-* 💻 [Frontend Bug Report - Product Filter](Frontend-Bug-Report.md)
 * 📕 [Frontend Bug Report (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Frontend-Bug-Report.pdf)
 * 📕 [UI/UX Bug Reports (PDF)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/UI-UX-Bug-Reports.pdf)
 
@@ -121,6 +117,15 @@ Comprehensive API testing collection created and executed in Postman.
 
 ---
 
+## Automation Tests
+
+Automated Selenium tests verifying login functionality (valid & invalid credentials).
+
+📂 Click to expand automation test files
+
+* [Combined Login Tests (Valid + Invalid)](https://github.com/NutsaGobe/Nutsa-s-Portfolio/blob/main/Automation_Tests/login_tests_combined.py)
+
+---
 #### 🐛 [Bug_Reports](./Bug_Reports)
 - Severity and priority classifications
 - Step-by-step reproduction steps
