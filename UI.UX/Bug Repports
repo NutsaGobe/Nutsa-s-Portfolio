@@ -1,12 +1,13 @@
 # UI/UX Bug Reports
 
+
 ---
 
 ## 1. Button Alignment Issue
 
-**Browser:** Chrome 120, Safari iOS  
-**OS:** iOS 16, Android 13  
-**Device:** iPhone 14, Samsung Galaxy S23  
+**Browser:** Chrome 120, Safari  
+**OS:** Windows 10, macOS  
+**Device:** Desktop, Laptop  
 **Page:** Contact Page  
 **Type:** UI/Layout  
 **Priority:** Medium  
@@ -16,7 +17,7 @@
 
 **Steps to Reproduce:**
 
-1. Open contact page on a mobile device
+1. Open contact page
 2. Observe the "Submit" button position
 
 **Actual Result:**
@@ -35,9 +36,9 @@
 
 ## 2. Inconsistent Font Sizes
 
-**Browser:** All browsers  
+**Browser:** Chrome, Firefox, Safari, Edge  
 **OS:** Windows 10, macOS  
-**Device:** Desktop  
+**Device:** Desktop, Laptop  
 **Page:** Multiple pages (Home, About, Services)  
 **Type:** UI/Typography  
 **Priority:** Low  
@@ -68,8 +69,8 @@
 ## 3. Loading Spinner Not Centered
 
 **Browser:** Chrome, Firefox  
-**OS:** Windows 10  
-**Device:** Desktop  
+**OS:** Windows 10, macOS  
+**Device:** Desktop, Laptop  
 **Page:** Products Page  
 **Type:** UI/Layout  
 **Priority:** Low  
@@ -98,9 +99,9 @@
 
 ## 4. Navigation Menu Overlaps Content
 
-**Browser:** Safari, Chrome Mobile  
-**OS:** iOS 16, Android 13  
-**Device:** iPad Pro, Samsung Galaxy Tab  
+**Browser:** Chrome, Firefox, Safari, Edge  
+**OS:** Windows 10, macOS  
+**Device:** Desktop, Laptop  
 **Page:** All pages  
 **Type:** UI/Layout  
 **Priority:** High  
@@ -110,9 +111,10 @@
 
 **Steps to Reproduce:**
 
-1. Open the site on a tablet device in landscape orientation
-2. Open the navigation menu
-3. Observe the overlap with main content area
+1. Open the site on desktop browser
+2. Resize browser window to tablet width (768px - 1024px)
+3. Open the navigation menu
+4. Observe the overlap with main content area
 
 **Actual Result:**
 
@@ -130,33 +132,8 @@
 
 ## 5. Color Contrast Issues
 
-**Browser:** All browsers  
-**OS:** Windows 10, macOS, iOS, Android  
-**Device:** All devices  
+**Browser:** Chrome, Firefox, Safari, Edge  
+**OS:** Windows 10, macOS  
+**Device:** Desktop, Laptop  
 **Page:** Checkout Page  
-**Type:** Accessibility/UI  
-**Priority:** Medium  
-**Severity:** Medium  
-**Environment:** Production  
-**Reproducibility:** 100%
-
-**Steps to Reproduce:**
-
-1. Navigate to the checkout page
-2. Observe "Proceed to Payment" button
-3. Run WAVE or Lighthouse accessibility audit
-4. Check contrast ratio
-
-**Actual Result:**
-
-- Text contrast ratio is 3.2:1, failing WCAG AA accessibility standards
-- Affects users with visual impairments
-
-**Expected Result:**
-
-- Text contrast ratio should be at least 4.5:1 to meet WCAG AA standards
-- All users should be able to easily read button text
-
-**Attachments:**
-
-- [audit-screenshot.com](#)
+**Type:** Accessibility/
