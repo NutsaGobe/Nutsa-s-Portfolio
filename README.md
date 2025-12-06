@@ -154,5 +154,5 @@ I'm actively looking for **Junior QA Tester** opportunities where I can contribu
 ---
 
 <div align="center">
-<sub>Last updated: December 2024</sub>
+<sub>Last updated: December 2025</sub>
 </div>
